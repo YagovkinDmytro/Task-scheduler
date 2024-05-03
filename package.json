@@ -2,9 +2,10 @@
   "name": "task-scheduler",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yagovkindmytro.github.io/task-scheduler/",
+  "homepage": "https://yagovkindmytro.github.io/Task-scheduler/",
   "dependencies": {
     "@react-md/icon": "^5.1.6",
+    "@redux-devtools/extension": "^3.3.0",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
