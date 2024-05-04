@@ -8,7 +8,6 @@ export const StatusFilter = () => {
   const dispatch = useDispatch();
 
   const filter = useSelector(state => state.filters.status);
-  console.log(filter);
   const handleFilterChange = filter => dispatch(setStatusFilter(filter));
 
   return (
